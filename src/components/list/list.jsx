@@ -3,7 +3,7 @@ import { Typography, InputLabel, MenuItem, FormControl, Select } from '@material
 import Details from '../details/details'
 
 import useStyles from './styles'
-const List = ({places, available, award, setAward, setAvailable, setType, type, setRating, rating, price, setPrice}) => {
+const List = ({available, award, setAward, setAvailable, setType, type, setRating, rating, price, setPrice}) => {
     const classes = useStyles()
 
     
