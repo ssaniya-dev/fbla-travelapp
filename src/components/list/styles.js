@@ -4,9 +4,6 @@ export default makeStyles(() => ({
   formControl: {
     margin: "10px", minWidth: 120, marginBottom: '30px',
   },
-  loading: {
-    height: '600px', display: 'flex', justifyContent: 'center', alignItems: 'center',
-  },
   container: {
     padding: '25px',
   },

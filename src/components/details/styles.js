@@ -17,7 +17,7 @@ export default makeStyles(() => ({
     height: '75vh',
     padding: "20px"
   },
-  chip: {
+  cusine: {
     margin: '5px 5px 5px 0',
   },
   subtitle: {
