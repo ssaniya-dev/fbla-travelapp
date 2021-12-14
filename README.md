@@ -1,3 +1,9 @@
+This project is for the 2021-22 FBLA competition. It mimics a travel application that gives users location data based on their own preferences. 
+
+This project was made through MaterialUI and React. The TravelAdvisor API was used to fetch the location information. 
+
+To run this file, please run "npm start" in the terminal. Be sure to install MaterialUI and React before running. 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
