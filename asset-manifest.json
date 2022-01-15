@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/fbla-travelapp/static/js/main.d9d12e09.chunk.js",
+    "main.js.map": "/fbla-travelapp/static/js/main.d9d12e09.chunk.js.map",
+    "runtime-main.js": "/fbla-travelapp/static/js/runtime-main.534e7b7c.js",
+    "runtime-main.js.map": "/fbla-travelapp/static/js/runtime-main.534e7b7c.js.map",
+    "static/js/2.2e846dcc.chunk.js": "/fbla-travelapp/static/js/2.2e846dcc.chunk.js",
+    "static/js/2.2e846dcc.chunk.js.map": "/fbla-travelapp/static/js/2.2e846dcc.chunk.js.map",
+    "index.html": "/fbla-travelapp/index.html",
+    "static/js/2.2e846dcc.chunk.js.LICENSE.txt": "/fbla-travelapp/static/js/2.2e846dcc.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.534e7b7c.js",
+    "static/js/2.2e846dcc.chunk.js",
+    "static/js/main.d9d12e09.chunk.js"
+  ]
+}
