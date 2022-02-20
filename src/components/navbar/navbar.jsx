@@ -52,7 +52,7 @@ const Navbar = () => {
                         How many attractions are there in this application? 
                         </Typography>
                         <Typography id="modal-modal-description" sx={{ mt: 2 }}>
-                        To help users find a tourist location based on a set of criteria! 
+                        There are in total 55 attracions near my area. However, this will greatly vary should you choose to change the area of interest. 
                         </Typography>
                     </Box>
                 </Modal>
